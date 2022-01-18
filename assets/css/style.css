@@ -21,6 +21,10 @@ header{
     font-weight: 900;
 }
 
+.text-dark{
+    text-decoration: none;
+}
+
 .prof-1{
     color: grey;
     font-weight: bold;

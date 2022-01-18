@@ -1,0 +1,27 @@
+* {  
+    font-family: 'Montserrat';
+    color: black;
+    font-weight: 500;
+}
+
+header{
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+
+.name{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.text-white{
+    font-family: 'Montserrat';
+    font-weight: 900;
+}
+
+.prof-1{
+    color: grey;
+    font-weight: bold;
+}

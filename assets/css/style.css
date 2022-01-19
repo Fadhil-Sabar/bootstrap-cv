@@ -29,3 +29,12 @@ header{
     color: grey;
     font-weight: bold;
 }
+
+.footer-logo {
+    width: 20%;
+    padding-right: 10px;
+}
+
+.bg-enigma {
+    background-color: #23418F;
+}
